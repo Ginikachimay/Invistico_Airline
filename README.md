@@ -23,7 +23,8 @@ This dataset was gotten from Kaggle.com
 2. I also checked for blank cells.
 3. I changed the data type to the accurate data types.
 
-### Visualization
+### Visualization
+
 **1. Total passengers**
 
 I used customer type to calculate the Total Passengers, and used a text box to represent it.
